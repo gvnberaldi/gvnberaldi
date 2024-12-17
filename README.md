@@ -17,7 +17,7 @@ I’m actively seeking job opportunities in the field of **AI** to apply my expe
 ### Artificial Intelligence
 
 #### Deep Learning and Computer Vision  
-- **[BrainyBot](https://github.com/your-username/brainybot)**: A robot capable of playing video games using an AI-based vision and reasoning module.  
+- **[BrainyBot](https://github.com/DeMaCS-UNICAL/BrainyBot?tab=readme-ov-file)**: A robot capable of playing video games using an AI-based vision and reasoning module.  
 - **[Human Action Recognition System](https://github.com/your-username/human-action-recognition)**: An AI system designed to recognize and classify human actions using 3D human pose estimation and a Relational Graph Convolutional Network. Implemented using PyTorch and PyTorch Geometric.  
 - **[Essay Authorship Detection](https://github.com/your-username/essay-authorship-detection)**: A deep learning model developed using TensorFlow to accurately identify whether an essay was written by a student or an LLM (Kaggle competition).  
 - **[Image Classification](https://github.com/your-username/image-classification)**: A deep learning model for classifying images, implemented using PyTorch.  
