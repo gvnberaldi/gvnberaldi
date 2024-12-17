@@ -55,6 +55,14 @@ I’m actively seeking job opportunities in the field of **AI** to apply my expe
 ### Websites  
 - **[Sports Event Management System](https://github.com/your-username/sports-events-management)**: A web-based platform for managing sports events.  
 
+---
+
+## 📜 Publications  
+- **[From Vision to Execution: Enabling Knowledge Representation and Reasoning in Hybrid Intelligent Robots Playing Mobile Games](https://proceedings.kr.org/2023/5/)**  
+  Proceedings of the 20th International Conference on Principles of Knowledge Representation and Reasoning  
+
+## 📫 Contact  
+- **Email**: [gvnberaldi@gmail.com](mailto:gvnberaldi@gmail.com)
 
 <!--
 **gvnberaldi/gvnberaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
