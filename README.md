@@ -19,7 +19,7 @@ I’m actively seeking job opportunities in the field of **AI** to apply my expe
 #### Deep Learning and Computer Vision  
 - **[BrainyBot](https://github.com/DeMaCS-UNICAL/BrainyBot)**: A robot capable of playing video games using an AI-based vision and reasoning module.  
 - **[Pose2Action](https://github.com/gvnberaldi/Pose2Action)**: An AI system designed to recognize and classify human actions using 3D human pose estimation and a Relational Graph Convolutional Network. Implemented using PyTorch and PyTorch Geometric.  
-- **[Essay Authorship Detection](https://github.com/your-username/essay-authorship-detection)**: A deep learning model developed using TensorFlow to accurately identify whether an essay was written by a student or an LLM (Kaggle competition).  
+- **[EssayAuthorshipDetector](https://github.com/gvnberaldi/EssayAuthorshipDetector)**: A deep learning model developed using TensorFlow to accurately identify whether an essay was written by a student or an LLM (Kaggle competition).  
 - **[Image Classification](https://github.com/your-username/image-classification)**: A deep learning model for classifying images, implemented using PyTorch.  
 - **[Image Semantic Segmentation](https://github.com/your-username/image-semantic-segmentation)**: A deep learning model for semantic segmentation of images, implemented using PyTorch.  
 - **[Motion Detection](https://github.com/your-username/motion-detection)**: Comparative analysis of deep learning algorithms for motion detection against traditional approaches.  
