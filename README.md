@@ -37,7 +37,7 @@ I’m actively seeking job opportunities in the field of **AI** to apply my expe
 ---
 
 ### DevOps  
-- **[Log Management System](https://github.com/gvnberaldi/log-management-system)**: A log file management system developed using Agile methodologies and Jira.  
+- **[SyslogManager](https://github.com/gvnberaldi/SyslogManager)**: A log file management system developed using Agile methodologies and Jira.  
 
 ---
 
