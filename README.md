@@ -28,7 +28,7 @@ I’m actively seeking job opportunities in the field of **AI** to apply my expe
 - **[HousePricePrediction](https://github.com/gvnberaldi/HousePricePrediction)**: Different machine learning models developed to predict house prices. (Kaggle competition).  
 
 #### Search  
-- **[Hypersonic Search Algorithm](https://github.com/your-username/hypersonic-search)**: A C++ search algorithm designed to play the Hypersonic game.  
+- **[HypersonicSearchTree](https://github.com/gvnberaldi/HypersonicSearchTree)**: A C++ search algorithm designed to play the Hypersonic game.  
 
 #### Algorithmic Game Theory  
 - **[Shapley Value and Nash Equilibrium](https://github.com/your-username/shapley-nash)**: Algorithms for efficiently computing Shapley Value and Nash Equilibrium using tree decomposition.  
