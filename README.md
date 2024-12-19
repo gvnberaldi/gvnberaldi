@@ -26,7 +26,7 @@ I’m actively seeking job opportunities in the field of **AI** to apply my expe
 - **[Object Detection](https://github.com/your-username/object-detection)**: Comparative analysis of deep learning algorithms for object detection against traditional methods.  
 
 #### Machine Learning  
-- **[House Price Prediction](https://github.com/your-username/house-price-prediction)**: Models developed to predict house prices using machine learning techniques (Kaggle competition).  
+- **[HousePricePrediction](https://github.com/gvnberaldi/HousePricePrediction)**: Different machine learning models developed to predict house prices. (Kaggle competition).  
 
 #### Search  
 - **[Hypersonic Search Algorithm](https://github.com/your-username/hypersonic-search)**: A C++ search algorithm designed to play the Hypersonic game.  
