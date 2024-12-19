@@ -22,7 +22,7 @@ I’m actively seeking job opportunities in the field of **AI** to apply my expe
 - **[EssayAuthorshipDetector](https://github.com/gvnberaldi/EssayAuthorshipDetector)**: A deep learning model developed using TensorFlow to accurately identify whether an essay was written by a student or an LLM (Kaggle competition).  
 - **[ImageClassifier](https://github.com/gvnberaldi/ImageClassifier)**: Implementation of different deep learning models for classifying images using PyTorch.  
 - **[ImageSemanticSegmentation](https://github.com/gvnberaldi/ImageSemanticSegmentation)**: Implementation of different deep learning models for semantic segmentation of images using PyTorch.  
-- **[Motion Detection](https://github.com/your-username/motion-detection)**: Comparative analysis of deep learning algorithms for motion detection against traditional approaches.  
+- **[MotionDetection](https://github.com/gvnberaldi/MotionDetection)**: Comparative analysis of deep learning algorithms for motion detection against traditional approaches.  
 - **[Object Detection](https://github.com/your-username/object-detection)**: Comparative analysis of deep learning algorithms for object detection against traditional methods.  
 
 #### Machine Learning  
