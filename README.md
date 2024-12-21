@@ -41,7 +41,7 @@ I’m actively seeking job opportunities in the field of **AI** to apply my expe
 ---
 
 ### Parallel Computing  
-- **[Parallel Sorting Algorithms](https://github.com/your-username/parallel-sorting)**: Implementation of parallel sorting algorithms.  
+- **[ParallelSortingAlgorithms](https://github.com/gvnberaldi/ParallelSortingAlgorithms)**: Implementation of parallel sorting algorithms using C++ and MPI.
 
 ---
 
