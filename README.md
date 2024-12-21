@@ -45,6 +45,7 @@ I’m actively seeking job opportunities in the field of **AI** to apply my expe
 
 ---
 
+<!--
 ### Object-Oriented Programming  
 - **[Lido Management System](https://github.com/your-username/lido-management)**: A management system for a beach resort.  
 - **[Library Management System](https://github.com/your-username/library-management)**: A management system for a library.  
@@ -55,6 +56,7 @@ I’m actively seeking job opportunities in the field of **AI** to apply my expe
 - **[Sports Event Management System](https://github.com/your-username/sports-events-management)**: A web-based platform for managing sports events.  
 
 ---
+-->
 
 ## 📜 Publications  
 - **[From Vision to Execution: Enabling Knowledge Representation and Reasoning in Hybrid Intelligent Robots Playing Mobile Games](https://proceedings.kr.org/2023/5/)**  
