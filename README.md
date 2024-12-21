@@ -31,7 +31,7 @@ I’m actively seeking job opportunities in the field of **AI** to apply my expe
 - **[HypersonicSearchTree](https://github.com/gvnberaldi/HypersonicSearchTree)**: A C++ search algorithm designed to play the Hypersonic game.  
 
 #### Algorithmic Game Theory  
-- **[Shapley Value and Nash Equilibrium](https://github.com/your-username/shapley-nash)**: Algorithms for efficiently computing Shapley Value and Nash Equilibrium using tree decomposition.  
+- **[GameTheoryOptimizer](https://github.com/gvnberaldi/GameTheoryOptimizer)**: Efficient algorithms for solving graph-based game theory problems, including Shapley Value, Nash Equilibria, and Mechanism Design.
 
 ---
 
