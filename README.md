@@ -21,7 +21,7 @@ I’m actively seeking job opportunities in the field of **AI** to apply my expe
 - **[Pose2Action](https://github.com/gvnberaldi/Pose2Action)**: An AI system designed to recognize and classify human actions using 3D human pose estimation and a Relational Graph Convolutional Network. Implemented using PyTorch and PyTorch Geometric.  
 - **[EssayAuthorshipDetector](https://github.com/gvnberaldi/EssayAuthorshipDetector)**: A deep learning model developed to accurately identify whether an essay was written by a student or an LLM (Kaggle competition). Implemented using TensorFlow.
 - **[ImageClassifier](https://github.com/gvnberaldi/ImageClassifier)**: Implementation of different deep learning models for classifying images. Implemented using PyTorch.  
-- **[ImageSemanticSegmentation](https://github.com/gvnberaldi/ImageSemanticSegmentation)**: Implementation of different deep learning models for semantic segmentation of images. Implemented using PyTorch.  
+- **[SemanticImageSegmentation](https://github.com/gvnberaldi/SemanticImageSegmentation)**: Implementation of different deep learning models for semantic segmentation of images. Implemented using PyTorch.  
 - **[MotionDetection](https://github.com/gvnberaldi/MotionDetection)**: Comparative analysis of deep learning algorithms for motion detection against traditional approaches.
 
 #### Machine Learning  
